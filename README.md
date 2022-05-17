@@ -1,5 +1,8 @@
 # Intro to Alexa Conversations 
 
+# ** This repository has been archived **
+This repository is still available as a point-in-time reference, but no further updates or support will be prioritized.
+
 This guide contains the Python code for the "Intro to Alexa Conversations" [template available in the Alexa Developer Portal](https://developer.amazon.com/en-US/docs/alexa/conversations/get-started.html), and provides a simple starting point to demonstrate a few key concepts in Alexa Conversations. Out of the box it supports the following voice flows:
 
  - A modal launch showing an APL welcome screen and APL-A welcome prompt ("open *conversation starter*")
